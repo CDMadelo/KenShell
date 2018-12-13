@@ -1,2 +1,7 @@
 # KenShell
-This is a simulation of a Windows Command Line (Shell) written in C.
+	A simulation of a Windows Command Line Written in C.
+	Final Project in CMSC 125 A.Y. 2018 - 2019
+
+<br><br>
+
+# Please refer to the User Manual.
